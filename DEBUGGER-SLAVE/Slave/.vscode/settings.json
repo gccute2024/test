@@ -1,0 +1,39 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "HARDWARE_CAN.H": "cpp",
+        "KERNEL_IRQ.H": "cpp",
+        "AE_CONFIG.H": "cpp",
+        "ae_rom.h": "c",
+        "AE_GLOBAL.H": "cpp",
+        "AE_DEBUGGER.H": "cpp",
+        "AE_ROM.H": "cpp",
+        "ae_func.h": "c",
+        "kernel_memory.h": "c",
+        "KERNEL_MEMORY.H": "cpp"
+    },
+/*     "fileheader.cursorMode": { //这部分是文件头的配置
+         "Copyright": "",
+        "file name": "File name",
+        "Data":"Do not edit",
+        "LastEditor": "",
+        "LastData":"",
+        "Describe":""
+    },
+    "fileheader.customMade": { //这部分是文件头的配置
+        "Copyright": "",
+        "file name": "File name",
+        "Data":"Do not edit",
+        "LastEditor": "",
+        "LastData":"",
+        "Describe":""
+    }, */
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/riscv/work_git/Slave",
+            "binaryPath": "/home/riscv/work_git/Slave/ec_main.elf",
+            "binaryArgs": []
+        }
+    ]
+    
+}
