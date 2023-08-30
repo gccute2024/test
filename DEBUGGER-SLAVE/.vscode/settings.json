@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+		"soc_func.h": "c",
+		"soc.h": "c",
+		"ae_command.h": "c",
+		"auto_test.h": "c",
+		"custom_temperature.h": "c",
+		"kernel_spif.h": "c",
+		"hardware_lpc_mon.h": "c",
+		"ae_reg.h": "c",
+		"type_traits": "c",
+		"kernel_timer.h": "c",
+		"AE_REG.H": "cpp",
+		"KERNEL_TIMER.H": "cpp",
+		"kernel_i2c.h": "c",
+		"CUSTOM_TEMPERATURE.H": "cpp"
+	}
+}
